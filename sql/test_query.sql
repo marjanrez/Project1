@@ -1,0 +1,1 @@
+select  name, employeename, ID from databasename.table1
